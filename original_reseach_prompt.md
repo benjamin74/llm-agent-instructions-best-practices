@@ -1,4 +1,4 @@
-I need you to conduct an in depth research on the best practices (as of November 26, 2026) regarding how to organize, structure and what to write in the CLAUDE.md or AGENTS.md file as well as what to put in supporting files or separate skills.
+I need you to conduct an in depth research on the best practices **(as of November 26, 2026)** regarding how to organize, structure and what to write in the CLAUDE.md or AGENTS.md file as well as what to put in supporting files or separate skills.
 
 This must of course also contain: 
 
